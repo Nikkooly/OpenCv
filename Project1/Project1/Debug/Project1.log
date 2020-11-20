@@ -1,0 +1,2 @@
+﻿  Source.cpp
+opencv_world440d.lib(opencv_world440d.dll) : fatal error LNK1112: тип компьютера модуля "x64" конфликтует с типом целевого компьютера "x86"

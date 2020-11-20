@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+  laba2.cpp
+F:\University\4-1\PMMP\labs\Project2\Project2\laba2.cpp(4,12): warning C4114: Множественное использование одного и того же квалификатора типа.
+  util.cpp
+  Создание кода...
+opencv_world440d.lib(opencv_world440d.dll) : fatal error LNK1112: тип компьютера модуля "x64" конфликтует с типом целевого компьютера "x86"

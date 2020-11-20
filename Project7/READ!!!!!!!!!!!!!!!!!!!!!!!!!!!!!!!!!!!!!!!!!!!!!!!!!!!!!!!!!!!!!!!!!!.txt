@@ -1,0 +1,38 @@
+Instruction for this lab
+1. Check your opencv (Your opencv must have opencv_modules, default opencv loaded from Internet DOESN'T HAVE it)
+
+Steps:
+
+-download opencv from githib
+https://github.com/opencv/opencv
+
+- load opencv_contrib
+https://github.com/opencv/opencv_contrib
+
+- download and install CMake (don't forget write into Path,  path to your CMake bin)
+
+- watch this video and follow every step
+https://www.youtube.com/watch?v=v_76zetw950
+
+After this, check my lab, if #include "opencv2/tracking.hpp" is not underline, cool. If not, you have crooked hands.
+
+2. Download file 
+https://pjreddie.com/media/files/yolov3.weights
+
+3. Put this file into Project. This file uses in yolo detection!!!
+
+4. Clone repository
+https://github.com/Mogball/goturn-files
+
+5. Unpack goturn.caffe.model and put it into Project7 folder
+
+6. Run lab
+
+7. Write message "Pizdabol" on russian to this guy, thanks)
+https://vk.com/idsupermeganik
+
+
+
+
+
+

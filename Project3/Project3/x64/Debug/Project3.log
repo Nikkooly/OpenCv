@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+F:\University\4-1\PMMP\labs\Project3\Project3\lab3.cpp(8,9): warning C4101: code: неиспользованная локальная переменная
+F:\University\4-1\PMMP\labs\Project3\Project3\lab3.cpp(7,10): warning C4101: ch: неиспользованная локальная переменная
+  Project3.vcxproj -> F:\University\4-1\PMMP\labs\Project3\x64\Debug\Project3.exe

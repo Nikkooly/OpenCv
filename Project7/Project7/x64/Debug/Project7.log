@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+F:\University\4-1\PMMP\labs\Project7\Project7\lab7.cpp(231,31): warning C4305: инициализация: усечение из "double" в "float"
+F:\University\4-1\PMMP\labs\Project7\Project7\lab7.cpp(262,29): warning C4305: инициализация: усечение из "double" в "float"
+F:\University\4-1\PMMP\labs\Project7\Project7\lab7.cpp(299,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Project7.vcxproj -> F:\University\4-1\PMMP\labs\Project7\x64\Debug\Project7.exe
